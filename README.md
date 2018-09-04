@@ -1,2 +1,4 @@
 # Portfolio-Website
-This is my personal academic portfolio website.Where, I have mentioned clearly about my experience, skills and project.
+
+This is my personal portfolio website. It includes details about my
+experience, skills, and projects.
