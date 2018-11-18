@@ -6,7 +6,23 @@
 	border-style:solid;
     cursor: pointer;
     transition: 0.3s;
+    width: 100px;
+    height: 75px
 	}
+
+
+.my_Img{
+        border-radius: 5px
+        border-color: #c4663e;
+        border-width:3px;
+        border-style:solid;
+        cursor:pointer;
+        transition:0.3s;
+}
+
+
+
+.myImg:hover {opacity: 0.1;}
 
 
 /* The Modal (background) */
